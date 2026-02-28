@@ -7,4 +7,18 @@ This project performs Exploratory Data Analysis (EDA) on a retail sales dataset 
 
 The analysis focuses on understanding sales trends, product performance, regional distribution, and profit patterns using Python-based data analysis tools.
 
-🎯 Objective
+# OBJECTIVE
+
+The main objectives of this project are:
+
+Clean and preprocess raw sales data
+
+Identify sales trends over time
+
+Analyze top-performing products
+
+Evaluate regional sales contribution
+
+Study profit distribution
+
+Generate actionable business insights
