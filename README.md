@@ -22,3 +22,17 @@ Evaluate regional sales contribution
 Study profit distribution
 
 Generate actionable business insights
+
+# Tools & Technologies Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Jupyter Notebook
